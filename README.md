@@ -1,4 +1,4 @@
-# GitHub Repository Summary
+# Linked Data & Archival Metadata to MARC21 Converter
 
 An automated Python pipeline designed for Google Colab that converts Excel metadata of archival document collections (e.g., Francke Nachlass) into standardized MARC21 (`.mrk`) library records.
 
